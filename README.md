@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 Currently learning CS, exploring C, Java, Python and databases.
-🐈 Linux user, Neovim enjoyer, cat fan.
+- 🌱 Currently learning CS, exploring C, Java, Python and databases.
+- 🐈 Linux user, Neovim enjoyer, cat fan.
 <!--
 **SiriusBacon/SiriusBacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
